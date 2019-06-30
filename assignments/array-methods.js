@@ -109,5 +109,5 @@ runners.filter(element => {
   }
 })
 
-// console.table(evenNums);
-// console.table(oddNums);
+console.table(evenNums);
+console.table(oddNums);
